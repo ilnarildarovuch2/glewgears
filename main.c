@@ -1,4 +1,4 @@
-// gcc main.c -lGLEW -lglfw -lm -o shader
+// gcc main.c -lGLEW -lglfw -lGL -lm -o gears
 // gcc -m32 main.c -o gears.exe -Iinclude -Llib -lglfw3 -lglew32 -lopengl32 -lgdi32
 
 #include <stdio.h>

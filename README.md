@@ -17,7 +17,7 @@ Classic 3D gear simulation using OpenGL (glxgears), implemented with GLFW for wi
 
 ### Linux/macOS
 ```bash
-gcc main.c -lGLEW -lglfw -lm -o gears
+gcc main.c -lGLEW -lglfw -lGL -lm -o gears
 ```
 
 ### Windows (32-bit)
